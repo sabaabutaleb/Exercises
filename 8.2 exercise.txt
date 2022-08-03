@@ -1,0 +1,1930 @@
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature
+$ ls
+exercises/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature
+$ cd ecercises
+bash: cd: ecercises: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature
+$ cd e^C
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature
+$ cd exercises
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises (main)
+$ ls
+dummy_file  week1/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises (main)
+$ cd week1
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ ls
+8.2.md  git-exercise.md  unix_exercise/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ cd unix_exercise
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd basement
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ ls
+laundry-room/  storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd laundry-room
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ ls
+clothes  dryer  drying-rack  soap  trash1  trash2  treasure1  washer
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ rm trash1 trash2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ ls
+clothes  dryer  drying-rack  soap  treasure1  washer
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ ls
+laundry-room/  storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd storage
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ ls
+bicycle  trash3  treasure2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ rm trash 3
+rm: cannot remove 'trash': No such file or directory
+rm: cannot remove '3': No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ rm trash3
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ ls
+bicycle  treasure2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ ls
+laundry-room/  storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd..
+bash: cd..: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd ../ ../
+bash: cd: too many arguments
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd floor0
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd bathroom
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom (main)
+$ ls
+cabinet/  mat  mirror
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd kitchen
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ ls
+fridge/  oven/  pantry/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd fridge
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ ls
+bread  carrots  chicken  eggs  juice  milk  soda  trash4  trash5  trasure4
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ rm trash4 trash5
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ ls
+bread  carrots  chicken  eggs  juice  milk  soda  trasure4
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ ls
+fridge/  oven/  pantry/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd oven
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/oven (main)
+$ ls
+chicken-roast
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/oven (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd pantry
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/pantry (main)
+$ ls
+cereal  chips  cookies  crackers  trash6
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/pantry (main)
+$ rm trash6
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/pantry (main)
+$ ls
+cereal  chips  cookies  crackers
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/pantry (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ ls
+fridge/  oven/  pantry/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd living-room
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room (main)
+$ ls
+TV  bookshelf/  chair  couch  table
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room (main)
+$ cd bookshelf
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ ls
+animal-farm  harry-potter  it  lord-of-the-rings  trash7  trasure5
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ rm trash7
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ ls
+animal-farm  harry-potter  it  lord-of-the-rings  trasure5
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ cd ../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd floor1
+bash: cd: floor1: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd floor1
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ ls
+balcony/  bathroom/  bedroom1/  bedroom2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd balcony
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/balcony (main)
+$ ls
+chair  plant  trash10  trash11
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/balcony (main)
+$ rm trash10 trash11
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/balcony (main)
+$ ls
+chair  plant
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/balcony (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd bathroom
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bathroom (main)
+$ ls
+sink  toilet  tub
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bathroom (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd bathroom1
+bash: cd: bathroom1: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ ls
+balcony/  bathroom/  bedroom1/  bedroom2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd bedroom1
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1 (main)
+$ ls
+TV  bed  closet/  dresser/  toy-chest/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1 (main)
+$ cd closet
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/closet (main)
+$ ls
+board-game  toy  trash8  trash9
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/closet (main)
+$ rm trash8 trash9
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/closet (main)
+$ ls
+board-game  toy
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/closet (main)
+$ cd dresser
+bash: cd: dresser: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/closet (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1 (main)
+$ cd dresser
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/dresser (main)
+$ ls
+pants  shirt  socks
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/dresser (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1 (main)
+$ cd toy-chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/toy-chest (main)
+$ ls
+car  cow  dinosaur  space-ship  trasure6  truck
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/toy-chest (main)
+$ cd ../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ ls
+balcony/  bathroom/  bedroom1/  bedroom2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd bedroom2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2 (main)
+$ ls
+bed  closet/  desk  mirror
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2 (main)
+$ cd closet
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2/closet (main)
+$ ls
+suit  tie  treasure7
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2/closet (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2 (main)
+$ ls
+bed  closet/  desk  mirror
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ ls
+balcony/  bathroom/  bedroom1/  bedroom2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd floor2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2 (main)
+$ ls
+storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2 (main)
+$ cd storage
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ ls
+box1/  box2/  box3/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ cd box1
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box1 (main)
+$ ls
+trash12  trash13  trash14
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box1 (main)
+$ rm trash12 trash13 trash14
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box1 (main)
+$ ls
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box1 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ cd box2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box2 (main)
+$ ls
+halloween-decoration  holiday-decoration  ice-skates  sweaters  treasure8
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box2 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ cd box3
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box3 (main)
+$ ls
+posters  trash15  treasure9
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box3 (main)
+$ rm trash15
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box3 (main)
+$ ls
+posters  treasure9
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box3 (main)
+$ cd ../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ ls
+box1/  box2/  box3/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2 (main)
+$ ls
+storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ ls
+8.2.md  git-exercise.md  unix_exercise/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ cd..
+bash: cd..: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises (main)
+$ ls
+dummy_file  week1/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature
+$ ls
+exercises/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature
+$ cd ../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop
+$ ls
+'Microsoft Edge.lnk'*  'Visual Studio Code.lnk'*   chees.txt   desktop.ini   firstrepo/   notes/   revature/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop
+$ cd revature
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature
+$ cd exercise
+bash: cd: exercise: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature
+$ cd exersises
+bash: cd: exersises: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature
+$ ls
+exercises/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature
+$ cd exercises
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises (main)
+$ ls
+dummy_file  week1/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises (main)
+$ cd week1
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ ls
+8.2.md  git-exercise.md  unix_exercise/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ cd unix_exercise
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ ls
+8.2.md  git-exercise.md  unix_exercise/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ ls
+8.2.md  git-exercise.md  unix_exercise/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ cd unix_exersicise
+bash: cd: unix_exersicise: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ cd unix_exercise
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd basement
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ ls
+laundry-room/  storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd lundry-room
+bash: cd: lundry-room: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd laundry-room
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ ls
+clothes  dryer  drying-rack  soap  treasure1  washer
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ cd ../../../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ ls
+8.2.md  git-exercise.md  unix_exercise/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ cd unix_exercise
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ mkdir chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+chest/  house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd basement
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ ls
+laundry-room/  storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd laundry-room
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ ls
+clothes  dryer  drying-rack  soap  treasure1  washer
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ mv treasure1 ../chest
+
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ ls
+clothes  dryer  drying-rack  soap  washer
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd ../../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ ls
+8.2.md  git-exercise.md  unix_exercise/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ cd unix_exercise
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+chest/  house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ ls
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ cd ../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+chest/  house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd basement
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ ls
+chest  laundry-room/  storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd storage
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ ls
+bicycle  treasure2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ mv treasure2 ../../ chest
+mv: target 'chest' is not a directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ ls
+bicycle  treasure2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ mv treasure2 ../../../ chest
+mv: target 'chest' is not a directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ mv treasure2 ../ basement
+mv: target 'basement' is not a directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ mv treasure2 ../laundry-room
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ ^C
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ ls
+bicycle
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ cd..
+bash: cd..: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ ls
+chest  laundry-room/  storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd laundry-room
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ ls
+clothes  dryer  drying-rack  soap  treasure2  washer
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ cd ../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd floor0
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd living-room
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room (main)
+$ ls
+TV  bookshelf/  chair  couch  table
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room (main)
+$ cd bookshelf
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ ls
+animal-farm  harry-potter  it  lord-of-the-rings  trasure5
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ mv treasure5 ../../../../ chest
+mv: target 'chest' is not a directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ mv treasure5 ../../../../chest
+mv: cannot stat 'treasure5': No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ mv treasure5 ../../../chest
+mv: cannot stat 'treasure5': No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ mv trasure5 ../../../ chest
+mv: target 'chest' is not a directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ cd..
+bash: cd..: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ cd..
+bash: cd..: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd bathroom
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom (main)
+$ ls
+cabinet/  mat  mirror
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom (main)
+$ cd cabinet
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom/cabinet (main)
+$ ls
+3  brush  comb  shampoo  soap  toothbrush  toothpaste  trasure
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom/cabinet (main)
+$ cd..
+bash: cd..: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom/cabinet (main)
+$ cd ../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd kitchen
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ ls
+fridge/  oven/  pantry/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd fridge
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ ls
+bread  carrots  chicken  eggs  juice  milk  soda  trasure4
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ mv trasure4 ../../../../ chest
+mv: target 'chest' is not a directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ mv trasure4 ../../ house
+mv: target 'house' is not a directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ mv trasure4 ../../../house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ ls
+bread  carrots  chicken  eggs  juice  milk  soda
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ ls
+fridge/  oven/  pantry/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd oven
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/oven (main)
+$ ls
+chicken-roast
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/oven (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd pantry
+bash: cd: pantry: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd kitchen
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd pantry
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/pantry (main)
+$ ls
+cereal  chips  cookies  crackers
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/pantry (main)
+$ cd..
+bash: cd..: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/pantry (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd living-room
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room (main)
+$ ls
+TV  bookshelf/  chair  couch  table
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room (main)
+$ cd bookshelf
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ ls
+animal-farm  harry-potter  it  lord-of-the-rings  trasure5
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ trasure5 ../../../../chest
+bash: trasure5: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ mv trasure5 ../../../../chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ cd ../../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/  house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd floor1
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ ls
+balcony/  bathroom/  bedroom1/  bedroom2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd balcony
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/balcony (main)
+$ ls
+chair  plant
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/balcony (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd bathroom
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bathroom (main)
+$ ls
+sink  toilet  tub
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bathroom (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd bedroom1
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1 (main)
+$ ls
+TV  bed  closet/  dresser/  toy-chest/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1 (main)
+$ cd closet
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/closet (main)
+$ ls
+board-game  toy
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/closet (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1 (main)
+$ cd dresser
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/dresser (main)
+$ ls
+pants  shirt  socks
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/dresser (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1 (main)
+$ cd toy-chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/toy-chest (main)
+$ ls
+car  cow  dinosaur  space-ship  trasure6  truck
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/toy-chest (main)
+$ mv trasure6 ../../../../chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/toy-chest (main)
+$ cd../../
+bash: cd../../: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/toy-chest (main)
+$ cd ../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ ls
+balcony/  bathroom/  bedroom1/  bedroom2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd bedroom2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2 (main)
+$ ls
+bed  closet/  desk  mirror
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2 (main)
+$ cd closet
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2/closet (main)
+$ ls
+suit  tie  treasure7
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2/closet (main)
+$ mv treasure7 ../../../../chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2/closet (main)
+$ cd ../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ ls
+balcony/  bathroom/  bedroom1/  bedroom2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/  house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd floor2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2 (main)
+$ ls
+storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2 (main)
+$ cd storage
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ ls
+box1/  box2/  box3/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ cd box1
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box1 (main)
+$ ls
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box1 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ cd box2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box2 (main)
+$ ls
+halloween-decoration  holiday-decoration  ice-skates  sweaters  treasure8
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box2 (main)
+$ mv treasure8 ../../../../chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box2 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ cd box3
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box3 (main)
+$ ls
+posters  treasure9
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box3 (main)
+$ mv treasure9 ../../../../chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box3 (main)
+$ cd ../../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/  house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd basement
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ ls
+chest  laundry-room/  storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd laundry-room
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ ls
+clothes  dryer  drying-rack  soap  treasure2  washer
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ mv treasure2 ../../../chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ cd ../../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+chest/  house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ ls
+trasure5  trasure6  treasure2  treasure7  treasure8  treasure9
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/  house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd basement
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ ls
+chest  laundry-room/  storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd laundry-room
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ ls
+clothes  dryer  drying-rack  soap  washer
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd storage
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ ls
+bicycle
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/storage (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd floor0
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd bathroom
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom (main)
+$ ls
+cabinet/  mat  mirror
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom (main)
+$ ca cabinet
+bash: ca: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom (main)
+$ cd cabinet
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom/cabinet (main)
+$ ls
+3  brush  comb  shampoo  soap  toothbrush  toothpaste  trasure
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom/cabinet (main)
+$ mv trasure ../../../../chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/bathroom/cabinet (main)
+$ cd ../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd kitchen
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ ls
+fridge/  oven/  pantry/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd fridge
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ ls
+bread  carrots  chicken  eggs  juice  milk  soda
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd oven
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/oven (main)
+$ ls
+chicken-roast
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/oven (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd pantry
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/pantry (main)
+$ ls
+cereal  chips  cookies  crackers
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/pantry (main)
+$ cd ../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ ls
+bathroom/  kitchen/  living-room/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd living-room
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room (main)
+$ ls
+TV  bookshelf/  chair  couch  table
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room (main)
+$ cd bookshelf
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ ls
+animal-farm  harry-potter  it  lord-of-the-rings
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ ls
+animal-farm  harry-potter  it  lord-of-the-rings
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/living-room/bookshelf (main)
+$ cd ../../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/  house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd floor1
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ ls
+balcony/  bathroom/  bedroom1/  bedroom2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd balcony
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/balcony (main)
+$ ls
+chair  plant
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/balcony (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd bathroom
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bathroom (main)
+$ ls
+sink  toilet  tub
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bathroom (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd bedroom1
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1 (main)
+$ ls
+TV  bed  closet/  dresser/  toy-chest/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1 (main)
+$ cd closet
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/closet (main)
+$ ls
+board-game  toy
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/closet (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1 (main)
+$ cd dresser
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/dresser (main)
+$ \ls
+pants  shirt  socks
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/dresser (main)
+$ ls
+pants  shirt  socks
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/dresser (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1 (main)
+$ cd toy-chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/toy-chest (main)
+$ ls
+car  cow  dinosaur  space-ship  truck
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom1/toy-chest (main)
+$ cd ../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ ls
+balcony/  bathroom/  bedroom1/  bedroom2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd bedroom2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2 (main)
+$ ls
+bed  closet/  desk  mirror
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2 (main)
+$ cd closet
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2/closet (main)
+$ ls
+suit  tie
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1/bedroom2/closet (main)
+$ cd ../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ ls
+balcony/  bathroom/  bedroom1/  bedroom2/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor1 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/  house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd floor2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2 (main)
+$ ls
+storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2 (main)
+$ cd storage
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ ls
+box1/  box2/  box3/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ cd box1
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box1 (main)
+$ ls
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box1 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ cd box2
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box2 (main)
+$ ls
+halloween-decoration  holiday-decoration  ice-skates  sweaters
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box2 (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage (main)
+$ cd box3
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box3 (main)
+$ ls
+posters
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box3 (main)
+$ cd../../
+bash: cd../../: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2/storage/box3 (main)
+$ cd ../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2 (main)
+$ ls
+storage/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2 (main)
+$ cd../
+bash: cd../: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor2 (main)
+$  cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/  house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+chest/  house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ ls
+8.2.md  git-exercise.md  unix_exercise/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ cd unix_exercise
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+chest/  house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ ls
+trasure  trasure5  trasure6  treasure2  treasure7  treasure8  treasure9
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ ls
+trasure  trasure5  trasure6  treasure2  treasure7  treasure8  treasure9
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ cd ../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/  house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ find .trash
+find: ‘.trash’: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ find *trash
+find: ‘*trash’: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/  house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ ls
+8.2.md  git-exercise.md  unix_exercise/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+$ cd unix_exercise
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+chest/  house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd chest
+
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+bash: syntax error near unexpected token `('
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ $ ls
+bash: $: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ chest/  house/  instructions.txt
+bash: chest/: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+bash: syntax error near unexpected token `('
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ $ cd chest
+bash: $: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ chest/  house/  instructions.txt
+bash: chest/: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+bash: syntax error near unexpected token `('
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ $ cd ..
+bash: $: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+bash: syntax error near unexpected token `('
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ $ ls
+bash: $: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ 8.2.md  git-exercise.md  unix_exercise/
+bash: 8.2.md: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1 (main)
+bash: syntax error near unexpected token `('
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ $ cd unix_exercise
+bash: $: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ find. *trash
+bash: find.: command not found
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ find *trash
+find: ‘*trash’: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    basement/laundry-room/trash1
+        deleted:    basement/laundry-room/trash2
+        deleted:    basement/laundry-room/treasure1
+        deleted:    basement/storage/trash3
+        deleted:    basement/storage/treasure2
+        deleted:    floor0/bathroom/cabinet/trasure
+        deleted:    floor0/kitchen/fridge/trash4
+        deleted:    floor0/kitchen/fridge/trash5
+        deleted:    floor0/kitchen/fridge/trasure4
+        deleted:    floor0/kitchen/pantry/trash6
+        deleted:    floor0/living-room/bookshelf/trash7
+        deleted:    floor0/living-room/bookshelf/trasure5
+        deleted:    floor1/balcony/trash10
+        deleted:    floor1/balcony/trash11
+        deleted:    floor1/bedroom1/closet/trash8
+        deleted:    floor1/bedroom1/closet/trash9
+        deleted:    floor1/bedroom1/toy-chest/trasure6
+        deleted:    floor1/bedroom2/closet/treasure7
+        deleted:    floor2/storage/box1/trash12
+        deleted:    floor2/storage/box1/trash13
+        deleted:    floor2/storage/box1/trash14
+        deleted:    floor2/storage/box2/treasure8
+        deleted:    floor2/storage/box3/trash15
+        deleted:    floor2/storage/box3/treasure9
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../chest/
+        basement/chest
+        house
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ find *treasure
+find: ‘*treasure’: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ git restore treasure1
+error: pathspec 'treasure1' did not match any file(s) known to git
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ git resore trasure4
+git: 'resore' is not a git command. See 'git --help'.
+
+The most similar command is
+        restore
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ git restore trasure4
+error: pathspec 'trasure4' did not match any file(s) known to git
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    basement/laundry-room/trash1
+        deleted:    basement/laundry-room/trash2
+        deleted:    basement/laundry-room/treasure1
+        deleted:    basement/storage/trash3
+        deleted:    basement/storage/treasure2
+        deleted:    floor0/bathroom/cabinet/trasure
+        deleted:    floor0/kitchen/fridge/trash4
+        deleted:    floor0/kitchen/fridge/trash5
+        deleted:    floor0/kitchen/fridge/trasure4
+        deleted:    floor0/kitchen/pantry/trash6
+        deleted:    floor0/living-room/bookshelf/trash7
+        deleted:    floor0/living-room/bookshelf/trasure5
+        deleted:    floor1/balcony/trash10
+        deleted:    floor1/balcony/trash11
+        deleted:    floor1/bedroom1/closet/trash8
+        deleted:    floor1/bedroom1/closet/trash9
+        deleted:    floor1/bedroom1/toy-chest/trasure6
+        deleted:    floor1/bedroom2/closet/treasure7
+        deleted:    floor2/storage/box1/trash12
+        deleted:    floor2/storage/box1/trash13
+        deleted:    floor2/storage/box1/trash14
+        deleted:    floor2/storage/box2/treasure8
+        deleted:    floor2/storage/box3/trash15
+        deleted:    floor2/storage/box3/treasure9
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../chest/
+        basement/chest
+        house
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd basement
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd laundry
+bash: cd: laundry: No such file or directory
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement (main)
+$ cd laundry-room
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ git restore trasure4
+error: pathspec 'trasure4' did not match any file(s) known to git
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ git restore treasure1
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ ls
+clothes  dryer  drying-rack  soap  treasure1  washer
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ mv treasure1 ../../../chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/basement/laundry-room (main)
+$ cd ../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd floor0
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0 (main)
+$ cd kitchen
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen (main)
+$ cd fridge
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ git restore trasure4
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ ls
+bread  carrots  chicken  eggs  juice  milk  soda  trasure4
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ mv trasure4 ../../../../chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house/floor0/kitchen/fridge (main)
+$ cd ../../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ ls
+basement/  floor0/  floor1/  floor2/  house
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/house (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ ls
+chest/  house/  instructions.txt
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise (main)
+$ cd chest
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ ls
+trasure  trasure4  trasure5  trasure6  treasure1  treasure2  treasure7  treasure8  treasure9
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    ../house/basement/laundry-room/trash1
+        deleted:    ../house/basement/laundry-room/trash2
+        deleted:    ../house/basement/laundry-room/treasure1
+        deleted:    ../house/basement/storage/trash3
+        deleted:    ../house/basement/storage/treasure2
+        deleted:    ../house/floor0/bathroom/cabinet/trasure
+        deleted:    ../house/floor0/kitchen/fridge/trash4
+        deleted:    ../house/floor0/kitchen/fridge/trash5
+        deleted:    ../house/floor0/kitchen/fridge/trasure4
+        deleted:    ../house/floor0/kitchen/pantry/trash6
+        deleted:    ../house/floor0/living-room/bookshelf/trash7
+        deleted:    ../house/floor0/living-room/bookshelf/trasure5
+        deleted:    ../house/floor1/balcony/trash10
+        deleted:    ../house/floor1/balcony/trash11
+        deleted:    ../house/floor1/bedroom1/closet/trash8
+        deleted:    ../house/floor1/bedroom1/closet/trash9
+        deleted:    ../house/floor1/bedroom1/toy-chest/trasure6
+        deleted:    ../house/floor1/bedroom2/closet/treasure7
+        deleted:    ../house/floor2/storage/box1/trash12
+        deleted:    ../house/floor2/storage/box1/trash13
+        deleted:    ../house/floor2/storage/box1/trash14
+        deleted:    ../house/floor2/storage/box2/treasure8
+        deleted:    ../house/floor2/storage/box3/trash15
+        deleted:    ../house/floor2/storage/box3/treasure9
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ./
+        ../house/basement/chest
+        ../house/house
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ git add .
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   trasure
+        new file:   trasure4
+        new file:   trasure5
+        new file:   trasure6
+        new file:   treasure1
+        new file:   treasure2
+        new file:   treasure7
+        new file:   treasure8
+        new file:   treasure9
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    ../house/basement/laundry-room/trash1
+        deleted:    ../house/basement/laundry-room/trash2
+        deleted:    ../house/basement/laundry-room/treasure1
+        deleted:    ../house/basement/storage/trash3
+        deleted:    ../house/basement/storage/treasure2
+        deleted:    ../house/floor0/bathroom/cabinet/trasure
+        deleted:    ../house/floor0/kitchen/fridge/trash4
+        deleted:    ../house/floor0/kitchen/fridge/trash5
+        deleted:    ../house/floor0/kitchen/fridge/trasure4
+        deleted:    ../house/floor0/kitchen/pantry/trash6
+        deleted:    ../house/floor0/living-room/bookshelf/trash7
+        deleted:    ../house/floor0/living-room/bookshelf/trasure5
+        deleted:    ../house/floor1/balcony/trash10
+        deleted:    ../house/floor1/balcony/trash11
+        deleted:    ../house/floor1/bedroom1/closet/trash8
+        deleted:    ../house/floor1/bedroom1/closet/trash9
+        deleted:    ../house/floor1/bedroom1/toy-chest/trasure6
+        deleted:    ../house/floor1/bedroom2/closet/treasure7
+        deleted:    ../house/floor2/storage/box1/trash12
+        deleted:    ../house/floor2/storage/box1/trash13
+        deleted:    ../house/floor2/storage/box1/trash14
+        deleted:    ../house/floor2/storage/box2/treasure8
+        deleted:    ../house/floor2/storage/box3/trash15
+        deleted:    ../house/floor2/storage/box3/treasure9
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../house/basement/chest
+        ../house/house
+
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ git add .
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   trasure
+        new file:   trasure4
+        new file:   trasure5
+        new file:   trasure6
+        new file:   treasure1
+        new file:   treasure2
+        new file:   treasure7
+        new file:   treasure8
+        new file:   treasure9
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    ../house/basement/laundry-room/trash1
+        deleted:    ../house/basement/laundry-room/trash2
+        deleted:    ../house/basement/laundry-room/treasure1
+        deleted:    ../house/basement/storage/trash3
+        deleted:    ../house/basement/storage/treasure2
+        deleted:    ../house/floor0/bathroom/cabinet/trasure
+        deleted:    ../house/floor0/kitchen/fridge/trash4
+        deleted:    ../house/floor0/kitchen/fridge/trash5
+        deleted:    ../house/floor0/kitchen/fridge/trasure4
+        deleted:    ../house/floor0/kitchen/pantry/trash6
+        deleted:    ../house/floor0/living-room/bookshelf/trash7
+        deleted:    ../house/floor0/living-room/bookshelf/trasure5
+        deleted:    ../house/floor1/balcony/trash10
+        deleted:    ../house/floor1/balcony/trash11
+        deleted:    ../house/floor1/bedroom1/closet/trash8
+        deleted:    ../house/floor1/bedroom1/closet/trash9
+        deleted:    ../house/floor1/bedroom1/toy-chest/trasure6
+        deleted:    ../house/floor1/bedroom2/closet/treasure7
+        deleted:    ../house/floor2/storage/box1/trash12
+        deleted:    ../house/floor2/storage/box1/trash13
+        deleted:    ../house/floor2/storage/box1/trash14
+        deleted:    ../house/floor2/storage/box2/treasure8
+        deleted:    ../house/floor2/storage/box3/trash15
+        deleted:    ../house/floor2/storage/box3/treasure9
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../house/basement/chest
+        ../house/house
+
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ git commit -m "moving all treasure to chest and deleting the tras"
+[main 91ef668] moving all treasure to chest and deleting the tras
+ 9 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 week1/unix_exercise/chest/trasure
+ create mode 100644 week1/unix_exercise/chest/trasure4
+ create mode 100644 week1/unix_exercise/chest/trasure5
+ create mode 100644 week1/unix_exercise/chest/trasure6
+ create mode 100644 week1/unix_exercise/chest/treasure1
+ create mode 100644 week1/unix_exercise/chest/treasure2
+ create mode 100644 week1/unix_exercise/chest/treasure7
+ create mode 100644 week1/unix_exercise/chest/treasure8
+ create mode 100644 week1/unix_exercise/chest/treasure9
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ git push
+remote: Permission to Revature-Training-1302/exercises.git denied to sabaabutaleb.
+fatal: unable to access 'https://github.com/Revature-Training-1302/exercises.git/': The requested URL returned error: 403
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises/week1/unix_exercise/chest (main)
+$ cd ../../../
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises (main)
+$ ls
+dummy_file  week1/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature/exercises (main)
+$ cd ..
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature
+$ ls
+exercises/
+
+sabaa@Saba MINGW64 ~/OneDrive/Desktop/revature
+$
